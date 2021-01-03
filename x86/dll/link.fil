@@ -1,0 +1,5 @@
+/entry dllmain
+/dll
+/exports add
+
+add.obj

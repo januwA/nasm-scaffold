@@ -1,0 +1,5 @@
+/entry:main 
+
+kernel32.dll user32.dll
+
+MessageBox.obj

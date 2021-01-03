@@ -1,0 +1,6 @@
+/entry:main 
+/console
+
+kernel32.dll user32.dll
+
+console.obj
